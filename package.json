@@ -1,0 +1,18 @@
+{
+  "name": "wudup-dynamic-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WudupApp/Dynamic_Prototype.git"
+  },
+  "author": "David R Poindexter III <drpoindexter@gmail.com> (http://vcard.davidrpoindexter.com/)",
+  "bugs": {
+    "url": "https://github.com/WudupApp/Dynamic_Prototype/issues"
+  },
+  "homepage": "https://github.com/WudupApp/Dynamic_Prototype#readme"
+}
